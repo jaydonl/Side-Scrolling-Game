@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Rage Simulator (Side Scrolling Game)
+Made for a school project
+June 2014
+Use the greenfoot project file to start the project
+Made by Jaydon Lau, Terrence Hung, Jason Fok, Ernest Wong
+Control the character to navigate throughout the map, defeating enemies and dodging traps along the way.
+More detailed instructions can be found in the instructions menu of the game. 
