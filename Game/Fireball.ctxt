@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=facingRight
+comment0.target=Fireball(boolean)
+comment0.text=\r\n\ Constructor\ for\ Fireball\ class.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Fireball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ moveRight()
+comment2.text=\r\n\ Moves\ the\ player\ to\ the\ right\ and\ controls\ right\ movement\ animation.\r\n
+comment3.params=
+comment3.target=void\ moveLeft()
+comment3.text=\r\n\ Moves\ the\ player\ to\ the\ right\ and\ controls\ right\ movement\ animation.\r\n
+comment4.params=
+comment4.target=void\ checkHit()
+comment4.text=\r\n\ Check\ if\ the\ fireball\ hit\ the\ player\ and\ kill\ the\ player\ is\ so\r\n
+numComments=5

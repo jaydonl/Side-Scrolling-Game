@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DK()
+comment0.text=\r\n\ Constructor\ for\ DK\ class.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Guy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ animate()
+comment2.text=\r\n\ Cycles\ through\ the\ DK\ animation,\ firing\ a\ barrel\ upon\ reaching\ the\ proper\ frame\ \r\n
+comment3.params=
+comment3.target=int\ getAnimationCounter()
+comment3.text=\r\n\ Accessor\ method\ to\ get\ the\ current\ animation\ counter\r\n
+numComments=4

@@ -1,0 +1,18 @@
+gggggggggggggggggggggggggggggggg
+b                     2         
+b   ggggggggggggg               
+b  4b           b1       1gggggg
+b               bgggggggggg    b
+b1                             b
+bbgggg                    1    b
+b2222b                    2    b
+b    bgggggggggggggggg         b
+b      22222222222222bgg       b
+b                     22   ggggb
+b                       g  bbbbb
+b3                         bbbbb
+gggg3   gggggg         1  gggggg
+        4bbbbbg  g     2   bbbbb
+        4bbbbb3 43  g     4b    
+        4bbbbb        ggg  bgggg
+gggggg111bbbbb1111111111111bbbbb

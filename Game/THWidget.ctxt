@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=THWidget()
+comment0.text=\r\n\ Constructs\ an\ HP\ bar\ 250px\ by\ 50px\ that\ starts\ at\ 100\ HP,\ with\ a\ 5px\ wide\ black\ border\ and\ green\ fill.\r\n
+comment1.params=bgLength\ hpMax\ bgColor\ fColor
+comment1.target=THWidget(int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment1.text=\r\n\ Constructs\ an\ HP\ bar\ with\ a\ 5\:1\ length\ to\ height\ ratio\ that\ starts\ at\ full\ HP\ by\ drawing\ two\ rectangles\ with\ the\ bigger\ one\ acting\ as\ the\ border\ and\ background.\r\n\ \r\n\ @param\ bgLength\ Length\ of\ the\ entire\ bar\ in\ pixels\r\n\ @param\ hpMax\ Maximum\ amount\ of\ HP\ that\ the\ bar\ can\ have\r\n\ @param\ bgColor\ Color\ of\ the\ back\ rectangle\r\n\ @param\ fColor\ Color\ of\ the\ bar\ that\ will\ be\ inside\ the\ border\r\n
+comment2.params=bgLength\ hpMax\ hpCurrent\ bgColor\ fColor
+comment2.target=THWidget(int,\ int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment2.text=\r\n\ Constructs\ an\ HP\ bar\ with\ a\ 5\:1\ length\ to\ height\ ratio\ that\ starts\ at\ a\ given\ HP\ by\ drawing\ two\ rectangles\ with\ the\ bigger\ one\ acting\ as\ the\ border\ and\ background.\r\n\ \r\n\ @param\ bgLength\ Length\ of\ the\ entire\ bar\ in\ pixels\r\n\ @param\ hpMax\ Maximum\ amount\ of\ HP\ that\ the\ bar\ can\ have\r\n\ @param\ hpCurrent\ Current\ amount\ of\ HP\ the\ bar\ has\r\n\ @param\ bgColor\ Color\ of\ the\ back\ rectangle\r\n\ @param\ fColor\ Color\ of\ the\ bar\ that\ will\ be\ inside\ the\ border\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Changes\ color\ of\ health\ bar\ to\ red\ if\ health\ is\ less\ than\ 15%,\ yellow\ if\ health\ is\ less\ than\ 40%,\ or\ original\ color\ if\ health\ is\ above\ 40%.\r\n
+comment4.params=change
+comment4.target=void\ update(int)
+comment4.text=\r\n\ Increases\ or\ decreases\ HP\ and\ updates\ the\ bar\ accordingly.\r\n\ \r\n\ @param\ change\ How\ much\ the\ health\ changes\ by\r\n
+comment5.params=fColor
+comment5.target=void\ update(java.awt.Color)
+comment5.text=\r\n\ Changes\ the\ color\ of\ the\ HP\ bar.\r\n\ \r\n\ @param\ fColor\ New\ color\ of\ HP\ bar\r\n
+comment6.params=
+comment6.target=int\ calculateBarLength()
+comment6.text=\r\n\ Calculates\ the\ length\ of\ the\ filled\ part\ of\ the\ bar.\r\n\ \r\n\ @return\ int\ Length\ of\ the\ filled\ bar\ in\ pixels\ that\ will\ be\ drawn\r\n
+numComments=7

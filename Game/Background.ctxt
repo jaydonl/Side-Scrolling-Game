@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=direction\ speed
+comment0.target=void\ move(int,\ int)
+comment1.params=
+comment1.target=boolean\ isMove()
+comment1.text=\r\n\ Accessor\ for\ the\ boolean\ isMove\r\n\ \r\n\ @return\ true\ if\ the\ tile\ is\ moving.\ Otherwise,\ false.\r\n
+comment2.params=
+comment2.target=void\ moving()
+comment2.text=\r\n\ Set\ the\ boolean\ isMove\ true.\r\n
+comment3.params=
+comment3.target=int\ getSpeed()
+comment3.text=\r\n\ Accessor\ for\ the\ speed\ of\ the\ tile\r\n\ \r\n\ @return\ speed\ of\ the\ tile\r\n
+comment4.params=
+comment4.target=int\ getDirection()
+comment4.text=\r\n\ Accessor\ for\ the\ direction\ of\ the\ tile\r\n\ \r\n\ @return\ 1\ if\ the\ tile\ is\ moving\ left.\ -1\ if\ the\ tile\ is\ moving\ right.\r\n
+numComments=5

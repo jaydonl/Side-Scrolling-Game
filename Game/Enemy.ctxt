@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=hpChanged
+comment0.target=void\ changeHP(int)
+comment0.text=\r\n\ Changes\ the\ HP\ value\ of\ the\ enemy\r\n\ \r\n\ @param\ hpChanged\ The\ value\ of\ hp\ decreased\ \r\n
+numComments=1

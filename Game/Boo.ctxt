@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=Boo(boolean)
+comment0.text=\r\n\ Constructor\ for\ Boo,\ allowing\ for\ the\ direction\ that\ Boo\ is\ facing\ to\ be\ set\r\n\ @param\ direction\ The\ direction\ Boo\ is\ facing\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Boo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkSleep()
+comment2.text=\r\n\ Checks\ if\ Boo\ is\ facing\ the\ same\ direction\ as\ the\ player.\r\n\ If\ so,\ then\ puts\ Boo\ to\ sleep;\ otherwise,\ Boo\ wakes\ up\ \r\n
+comment3.params=
+comment3.target=void\ moveTowardsPlayer()
+comment3.text=\r\n\ Turns\ Boo\ towards\ the\ player\ and\ moves\ Boo\ closer\ to\ the\ player\r\n
+comment4.params=
+comment4.target=void\ checkChangeDirection()
+comment4.text=\r\n\ Checks\ if\ Boo\ needs\ to\ change\ direction\ depending\ on\ the\ player's\ new\ location\r\n\ \r\n
+comment5.params=
+comment5.target=void\ resetImage()
+comment5.text=\r\n\ Resets\ the\ image\ according\ to\ specific\ information\ \r\n\ Ex.\ direction,\ awake,\ and\ if\ boo\ is\ in\ range\ of\ the\ player\r\n
+numComments=6

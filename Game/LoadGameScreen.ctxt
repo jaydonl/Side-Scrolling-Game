@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LoadGameScreen()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TitleScreen.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Checks\ for\ mouse\ movement\ and\ clicks.\r\n
+comment2.params=
+comment2.target=void\ checkMouse()
+comment2.text=\r\n\ Checks\ for\ mouse\ movement\ and\ clicks.\r\n
+numComments=3

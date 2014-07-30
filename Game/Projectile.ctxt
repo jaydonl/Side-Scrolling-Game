@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ checkWorldEdge()
+comment0.text=\r\n\ Checks\ if\ the\ projectile\ is\ at\ the\ edge\ of\ the\ world.\r\n
+comment1.params=
+comment1.target=void\ remove()
+comment1.text=\r\n\ Removes\ the\ object\ if\ it\ isn't\ supposed\ to\ be\ in\ the\ world\ anymore.\r\n
+numComments=2

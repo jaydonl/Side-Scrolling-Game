@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Barrel()
+comment0.text=\r\n\ Creates\ a\ Barrel\ that\ is\ facing\ right\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Barrel\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ roll()
+comment2.text=\r\n\ Rolls\ the\ barrel,\ detecting\ blocks\ and\ the\ player\r\n\ The\ barrel\ will\ gradually\ fall\ if\ it\ is\ airborne,\ and\ continues\ to\ move\ right\ across\ the\ screen,\ unless\ it\ hits\ something\r\n
+numComments=3

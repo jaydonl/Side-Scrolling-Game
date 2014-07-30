@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=right
+comment0.target=PlayerShot(boolean)
+comment0.text=\r\n\ Constructor\ for\ class\ PlayerShot.\r\n\ \r\n\ @param\ right\ True\ if\ projectile\ is\ moving\ right,\ false\ if\ moving\ left.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Changes\ the\ location\ of\ the\ projectile,\ animates\ the\ sprite,\ and\ collides\ with\ enemies/walls.\r\n
+comment2.params=
+comment2.target=void\ animate()
+comment2.text=\r\n\ Controls\ the\ animation\ of\ the\ projectile.\r\n
+comment3.params=
+comment3.target=void\ checkObject()
+comment3.text=\r\n\ Checks\ if\ the\ projectile\ is\ touching\ a\ block,\ spike,\ cannon,\ or\ cannon\ bullet.\r\n
+comment4.params=
+comment4.target=void\ checkCollision()
+comment4.text=\r\n\ Checks\ if\ the\ projectile\ touches\ any\ enemy\ and\ deals\ damage\ to\ them\ if\ it\ is\ touching.\r\n
+numComments=5
